@@ -19,4 +19,4 @@ Feel free to explore the code, customize the application, and contribute to make
 
 ## Project Link
 
-[ScanF QR Generator - Create QR Codes](#)
+[ScanF QR Generator - Create QR Codes](https://sahilnandivkar.github.io/ScanF/)
